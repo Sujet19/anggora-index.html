@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/Sujet19/anggora-index.html.git
 git push -u origin main
 cd https://github.com/Sujet19/anggora-index.html/edit/main/sz
+echo "Hello World! Welcome to my website" >> https://github.com/Sujet19/anggora-index.html.git
